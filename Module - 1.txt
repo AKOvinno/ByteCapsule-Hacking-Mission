@@ -1,0 +1,6 @@
+First Week (12th October - 20th October)
+
+[i]	Learn C Programming Basics (Input, Output, Logical Implementation, if-else conditional statements)
+[ii]	Google Dorks List and Updated Database { https://www.boxpiper.com/posts/google-dork-list } 
+[iii]	Google dork cheat sheet { https://gist.github.com/sundowndev/283efaddbcf896ab405488330d1bbc06 }
+[iv]	Find Vulnerable Services & Hidden Info Using Google Dorks - Tutorial { https://www.youtube.com/watch?v=u_gOnwWEXiA } { https://www.youtube.com/watch?v=lESeJ3EViCo } { https://www.youtube.com/watch?v=P6AZDU-b9t8 } { https://t.me/c/1639510235/1161 }
