@@ -1,0 +1,3 @@
+[i]	Array & Functions in C Programming (Logic Development, Problem Solving with Array, Functions)
+[ii]	Anisul Islam C Programming Tutorial (97 - 112 & 165 - 206), Subeen PDF (Chapter 5, 6, 7)
+[ii]	Computer Network Security Basics ( https://www.youtube.com/playlist?list=PLab5XCu7ERqDeo4jsQyxbkWvv4w-0wTQk )

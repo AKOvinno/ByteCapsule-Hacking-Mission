@@ -1,0 +1,5 @@
+Second Week (28th October - 3rd November)
+
+[i]	Learn C Programming Basics (Switch, For Loop, While Loop Problem solving)
+[ii]	Git and Github {Installtion of Git, Create Account on Github}
+[iii]	Git and Github Tutorials { https://www.youtube.com/playlist?list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL }
