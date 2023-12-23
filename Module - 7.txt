@@ -1,0 +1,8 @@
+[i]	Learn About Linux & Install.
+	Bangle Resource- https://www.youtube.com/playlist?list=PLab5XCu7ERqD8x0c8nxgF8bhmriLaJCKv&themeRefresh=1
+[ii] 	Installation Process of Kali Linux
+	Virtual Box - https://www.youtube.com/watch?v=l97dVIKlmVg
+	VMware - https://www.youtube.com/watch?v=pwYH0NNWWzU
+	Pendrive - https://www.youtube.com/watch?v=mprjrNQulbw
+	Main OS - https://www.youtube.com/watch?v=N2L7kX69W0Y
+	Android - https://www.youtube.com/watch?v=KxOGyuGq0Ts

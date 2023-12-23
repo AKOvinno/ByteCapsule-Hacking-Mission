@@ -1,0 +1,15 @@
+[i] Learn Python Programming Basics ( Run program on input, output, Logical Implementation, if-else conditional statements, File Handling )
+    Links:
+	1. https://www.w3schools.com/python/
+	2. https://www.w3schools.com/python/python_file_remove.asp
+[ii] Articles on Mobile Pentesting
+     Links:
+	1. https://pentestlab.blog/category/mobile-pentesting/
+     Upersia:
+	2. https://www.uperesia.com/
+     Fumik0:
+	3. https://fumik0.com/
+     Mobile Application Penetration Testing Cheat Sheet
+	4. https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet
+[iii] Install Pycharm to run Python on PC
+      Install Pydroid to run Python on Android
