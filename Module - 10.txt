@@ -1,0 +1,7 @@
+[i] Learn Python Programming (Python Modules)
+	[Numpy { https://www.w3schools.com/python/numpy/default.asp },
+	 Pandas { https://www.w3schools.com/python/pandas/default.asp },
+	 Python SciPy { https://www.w3schools.com/python/scipy/index.php },
+	 Django Tutorial { https://www.w3schools.com/django/index.php },
+	 Python MongoDB { https://www.w3schools.com/python/python_mongodb_getstarted.asp } ]
+[ii] E-Book on Bash Programming [ https://www.pdfdrive.com/pro-bash-programming-scripting-the-gnulinux-shell-e175978888.html ]

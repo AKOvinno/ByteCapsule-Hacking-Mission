@@ -13,3 +13,4 @@
 	4. https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet
 [iii] Install Pycharm to run Python on PC
       Install Pydroid to run Python on Android
+[iv] Nethunter Installation Process - https://www.youtube.com/watch?v=KxOGyuGq0Ts
