@@ -1,0 +1,4 @@
+[1]	Lab setup - https://www.sentinelone.com/labs/building-a-custom-malware-analysis-lab-environment/
+[2]	Virus making using Python - https://www.youtube.com/watch?v=4gfc_FaMO3k
+[3]	Trojan making process - https://www.youtube.com/watch?v=r6ddnGm2Evo
+[4]	Spyware building - https://pypi.org/project/SpyWare/
