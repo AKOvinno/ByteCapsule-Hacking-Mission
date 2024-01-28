@@ -1,0 +1,4 @@
+[1]	OWASP Top 10 - https://portswigger.net/support/using-burp-to-test-for-the-owasp-top-ten
+[2]	DVWA - https://www.youtube.com/playlist?list=PLHUKi1UlEgOJLPSFZaFKMoexpM6qhOb4Q
+[3]	h1 Cyber Threats - https://docs.hackerone.com/en/articles/8475337-types-of-weaknesses
+[4]	Resources to Learn & Practice Website Hacking - https://www.youtube.com/watch?v=zrTcM5zUt40
