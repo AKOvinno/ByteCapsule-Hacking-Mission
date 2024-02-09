@@ -1,0 +1,7 @@
+Assembly Language:
+Tutorial - https://www.youtube.com/playlist?list=PLR2FqYUVaFJpHPw1ExSVJZFNlXzJYGAT1
+
+Reverse Engineering:
+Link:
+- https://github.com/wtsxDev/reverse-engineering
+- https://github.com/OpenToAllCTF/REsources
