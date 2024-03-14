@@ -1,0 +1,4 @@
+Advanced Networking - Server System - Important for Red Hat Hacking
+
+[i]	Windows Server - https://www.youtube.com/playlist?list=PLgZsQ5jmS-VbYoZOu1NXD28VgqKXcPw5n
+[ii]	Linux privilege escalation - https://www.youtube.com/watch?v=Wg_VeFOx2P0
