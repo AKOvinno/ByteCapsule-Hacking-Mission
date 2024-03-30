@@ -1,0 +1,4 @@
+Defensive Network Security + Metasploit [For Blue Teaming / Defensive Security]
+
+[1]	Defensive Security ( Networking ) - https://www.youtube.com/watch?v=pjoZfOLMDgU&list=PL0-xwzAwzllxblO9Pcx_iZTT_8uD7T83D
+[2]	Metasploit - https://www.youtube.com/watch?v=8lR27r8Y_ik&list=PLBf0hzazHTGN31ZPTzBbk70bohTYT7HSm

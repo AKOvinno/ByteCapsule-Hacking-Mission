@@ -1,0 +1,67 @@
+30th March to 19th April
+
+[1]	CTF
+যারা আসলে জানতে চান যে   CTF খেলে আসলে কি লাভ হয়? বা কি কি করা সম্ভব? 
+তো তাদের জন্য একটা কুইক নিউজঃ
+👉 https://youtu.be/622IDqkJyGU
+এটা একটা CTF Online  ব্যাটেল যেটা Hack The Box and Synac  অর্গানাইজ করছে। And the most interesting part was এটার প্রাইজ পুল ছিলো ৭.৫ হাজার USD যা বাংলাদেশি টাকায় কনভার্ট করলে হয় আলমোস্ট ৬ লক্ষ টাকা... 
+CTF (Capture the Flag)  এর বিভিন্ন Category  👇
+🧲 Cryptrography - 
+এই ধরনের challenge এ সাধারণত Flag কে বিভিন্ন ধরনের encryption ,encoding ও Cipher এর মাধ্যমে লুকিয়ে রাখা হয় । যেমনঃ Base64, Caesar, md5, Enigma etc.
+Tools: Cryptii , CyberChef
+🧲 Web - 
+এই ধরনের challenge এ Web protocols, web request, and response পরির্বতন করা web vulnerability যেমন sqli, xss, ssrf, etc exploit করার মাধ্যমে flag বের করতে হয়।
+Tools: Burp Suite, Gobuster
+🧲 Reverse -
+এই ধরনের challenge এ বিভিন্ন programming language  এ  compile করা program বা binary file দেওয়া হয়ে থাকে। যা analysis and reversing করে flag বের করতে হয়।
+Tools: IDA , GDB, Rader2
+🧲 Forensic - 
+এই ধরনের challenge এ player কে একটি Virtual Machine এর image বা একটি Hard Disk এর image file এবং অনেক সময় binary file দেওয়া হয়। যার থেকে flag বের করতে হয়।
+Tools: Autopsy, Ghex
+🧲 Pwn - 
+এই টা অনেকটা Reverse challenge গুলোর মত কিন্তু এখানে দেওয়া file থেকে পাওয়া info(text etc) server এ submit করতে হয় তাহলে flag পাওয়া যায়।
+Tools: IDA , GDB, Rader2
+🧲 Steagnography - 
+এই টা ও অনেকটা cryptography challenge এর মত কিন্তু এইখানে secret massage বা flag টা image, audio বা video তে লুকোনো থাকে।
+Tools: Steghide, Stegsolve
+🧲 OSINT - 
+এই ধরনের challenge এ player কে একটি username, url বা কিছু info দেওয়া হয় যার ব্যবহার করে osint framework এর সাহায্যে তাকে internet থেকে flag খোজে বের করতে হয়।
+Tools: Wayback, Tineye, OSINT Framework
+🧲 Miscellaneous - 
+এই ধরনের challenge এ ২ বা তার বেশি challenge এর মিশ্রণ থাকে।
+Tools: All
+Note:  প্রকৃতপক্ষে কোনো cetagory এর challenge এর limitition নেয়। এবং এক এক event এ Category  এবং challenge এক এক রকম হয়।
+🌀  CTF Platform - 
+🏷️ CTFTime - 
+এটি হল ctf খেলার সবচেয়ে বড় platform. CTFTime কোনো ctf playground না বরং এটি হল একটি event tracker যেখানে বিভিন্ন ctf এর event পাওয়া যায় এবং register করে participate করা যায়।
+Link: https://www.ctftime.org
+🏷️ Tryhackme - 
+এটি হল ctf playground যেখানে বিভিন্ন vulnerability যুক্ত virtual machine host করা থাকে যা tryhackme vpn এর সাথে connect হয়ে hack করা যায়।
+Link: https://www.tryhackme.com/
+🏷️ Hackthebox - 
+এটি ও tryhackme এর মত কিন্তু এখানের challenge বা machine গুলো tryhackme থেকে hard হয়ে থাকে।
+Link: https://www.hackthebox.eu/
+🏷️ CTFBD - 
+এটি বাংলাদেশের একটি ctf facebook group যেখানে all cetagory এর easy to intermidate challenge দেওয়া হয়ে থাকে। এবং এর messanger group এ বিভিন্ন ধরনের CTF জনিত help পাওয়া যায়।
+Link: https://www.facebook.com/groups/ctf.community.bd
+🏷️ Knightsquad - 
+এটা ও একটি বাংলাদেশি platform যেখানে সকল প্রকার ctf challenge পাওয়া যায়।
+Link: https://hack.knightsquad.org/
+🏷️ BBH -
+এটি বাংলাদেশের একটি ctf facebook group যেখানে all cetagory এর easy to intermidate challenge দেওয়া হয়ে থাকে। এবং এর Telegram group এ বিভিন্ন ধরনের CTF জনিত help পাওয়া যায়।
+এছাড়া এই গ্রুপে sql, Lfi, Rce, Xss ইত্যাদি challenge দেওয়া হয়... 
+🔥এছাড়াও Bengal Black Diamond টিম এর এই চ্যানেলের Pinned Messages Option এ রিসোর্স গুলো পাবেন
+চ্যানেল লিঙ্ক: https://t.me/BengalBlackDiamondCTF 
+👉 এখানে বিগত বছর গুলোয় বাংলাদেশে CIRT আয়োজিত National ও University সাইবার ড্রিল গুলোর Writeups গুলো পাবেন Pinned Messages অপশনে। 
+Note: There are so much more CTF platforms. 
+ © Theme - EliteSploit   🏁
+#Happy_Learning 
+#Stay_Safe 
+#Stay_Secure
+
+[2]	Resource on Write-ups:
+
+National Cyber Drill 2020 - https://www.youtube.com/playlist?list=PLMsMWuRY2Rx4xNkFqXqNr5xxDdNm0dT0q
+National Cyber Drill 2021 - https://www.youtube.com/playlist?list=PLMsMWuRY2Rx7WMBAq9NbRqvNQugkpPNQe
+Inter University Cyber Drill 2021 - https://www.youtube.com/playlist?list=PLMsMWuRY2Rx701hz2qNKYhDoX1uFwqAYR
+Knight CTF 2022 - https://www.youtube.com/playlist?list=PLMsMWuRY2Rx64IkUkGhCjMllHAK-5oiGm
